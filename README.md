@@ -22,7 +22,3 @@
 </div>
 
 ---
-
-### 💻 Codewars:
-
-![codewars](https://www.codewars.com/users/ValentinaVL/badges/large)
